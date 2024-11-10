@@ -10,7 +10,7 @@ class Practice extends StatefulWidget {
 class _PracticeState extends State<Practice> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       body: Center(
         child: Column(
           children: [
@@ -28,27 +28,9 @@ class _PracticeState extends State<Practice> {
                 fontWeight: FontWeight.w700,
               ),
             ),
-            Text(
-              "Hello Bangladesh",
-              style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.w700,
-              ),
-            ),
-            Text(
-              "Hello Bangladesh",
-              style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.w700,
-              ),
-            ),
-            Text(
-              "Hello Bangladesh",
-              style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.w700,
-              ),
-            ),
+            TextButton(onPressed: () {}, child: Text("ajdnvbjav")),
+            TextButton(onPressed: () {}, child: Text("ajdnvbjav")),
+            TextButton(onPressed: () {}, child: Text("ajdnvbjav")),
           ],
         ),
       ),
