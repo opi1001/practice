@@ -20,7 +20,35 @@ class _PracticeState extends State<Practice> {
                 fontSize: 20,
                 fontWeight: FontWeight.w700,
               ),
-            )
+            ),
+            Text(
+              "Hello Bangladesh",
+              style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
+            Text(
+              "Hello Bangladesh",
+              style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
+            Text(
+              "Hello Bangladesh",
+              style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
+            Text(
+              "Hello Bangladesh",
+              style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
           ],
         ),
       ),
